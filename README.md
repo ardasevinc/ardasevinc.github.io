@@ -1,4 +1,8 @@
-# Belka
+---
+title: Belka
+---
+# No one will take her away!
 Best girl ever
 
-![No one will take her away!](https://raw.githubusercontent.com/ardasevinc/ardasevinc.github.io/master/belka.jpeg)
+
+![majestic](https://raw.githubusercontent.com/ardasevinc/ardasevinc.github.io/master/belka.jpeg)
