@@ -1,6 +1,3 @@
----
-title: Belka
----
 # No one will take her away!
 Best girl ever
 
