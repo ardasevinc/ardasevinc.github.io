@@ -99,6 +99,16 @@ h2 {
     
     h2 {
         font-size: 2em;
+        text-align: start;
+    }
+    
+    
+    .contact {
+        float: left;
+    }
+    
+    .projects {
+        float: left;
     }
     
     .contact ul li, .projects ul li {
