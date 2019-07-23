@@ -105,3 +105,29 @@ h2 {
         text-align: start;
     }
 }
+
+@media only screen and (max-height: 650px) {
+    header {
+        height: 20vh;
+        font-size: .85em;
+    }
+    
+    main {
+        width: 100vw;
+        
+    }
+    
+    .contact {
+        float: left;
+    }
+    
+    .projects {
+        float: right;
+    }
+    
+    h2 {
+        font-size: 2em;
+        text-align: center;
+    }
+    
+}
