@@ -15,6 +15,18 @@ body {
     background-image: url(../img/prism.png);
 }
 
+header {
+    text-align: center;
+    height: 15vh;
+    padding: .6em;
+    padding-bottom: 1em;
+    overflow: hidden;
+}
+
+header h1 {
+    font-size: 4em;
+}
+
 main {
     position: absolute;
     left: 50%;
@@ -25,7 +37,7 @@ main {
 
 h2 {
     display: block;
-    font: 3.6em Oswald, serif;
+    font: 3.2em Oswald, serif;
 }
 
 
@@ -49,7 +61,7 @@ h2 {
 .contact ul, .projects ul{
     list-style-type: disc;
     list-style: inside;
-    font-size: 1.5em;
+    font-size: 1.4em;
     letter-spacing: .08em;
 }
 
@@ -68,6 +80,6 @@ h2 {
 }
 
 .contact ul li a:visited, .projects ul li a:visited {
-    color: black;
+    color: white;
  
 }
