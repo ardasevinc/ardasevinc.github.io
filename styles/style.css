@@ -83,3 +83,25 @@ h2 {
     color: white;
  
 }
+
+/* Adjustments for small screens */
+
+@media only screen and (max-width: 600px) {
+    header {
+        height: 20vh;
+        font-size: .85em;
+    }
+    
+    main {
+        width: 100vw;
+        text-align: center;   
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+    
+    .contact ul li, .projects ul li {
+        text-align: start;
+    }
+}
