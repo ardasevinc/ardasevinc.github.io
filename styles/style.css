@@ -99,21 +99,12 @@ h2 {
     
     h2 {
         font-size: 2em;
+    }
+    
+    .contact ul, .projects ul {
         text-align: start;
-    }
-    
-    
-    .contact {
-        float: left;
-    }
-    
-    .projects {
-        float: left;
-    }
-    
-    .contact ul li, .projects ul li {
-        text-align: start;
-    }
+    } 
+   
 }
 
 @media only screen and (max-height: 600px) {
