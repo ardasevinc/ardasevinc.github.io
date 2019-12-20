@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ardasevinc.me
+Token: e2a055f7664c5f830fd153df54ca5ce8f951b2a67a25bb2994ff9d0ab1bb40f7
