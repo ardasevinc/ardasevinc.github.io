@@ -1,1 +1,8 @@
+author: Arda Sevinç
+email: ardasevinc.technical@gmail.com
+baseurl: ""
+url: https://ardasevinc.me/
+github_username: ardasevinc
+
+
 include: ["./.well-known"]
